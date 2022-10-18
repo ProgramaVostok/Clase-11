@@ -47,4 +47,4 @@ DATO: Konstantin Tsiolkovsky, un ingeniero y matemático fue quien en 1903 deriv
 
 "Varios otros vuelos de Vostok estaban en etapa de planificación, incluida una misión doble que involucraba a dos mujeres y vuelos en solitario mucho más largos, según Astronautix.com. Pero todos estos fueron reemplazados por el programa soviético Voskhod, que conducía tripulaciones de varias personas, y el programa Soyuz , que sigue siendo el nombre de las misiones de vuelos espaciales tripulados de Rusia."
 
-fuente: https://www.space.com/vostok-program.html 
+Una de las fuentes de info: https://www.space.com/vostok-program.html 
