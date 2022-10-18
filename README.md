@@ -5,21 +5,30 @@ Vostok (ruso: Восток, «Este») fue un programa espacial soviético de sei
 
 El mismo objetivo que llevó a los americanos a embarcarse en el Proyecto Mercury, es decir lanzar un hombre al espacio, llevó a los rusos a desarrollar el Programa Vostok. Gracias a este programa los rusos fueron los primeros en colocar un hombre en órbita, el 12 de abril de 1961.
 
-Entre abril de 1961 y junio de 1963 los soviéticos lanzaron seis misiones Vostok, que pusieron a seis cosmonautas rusos en órbita alrededor de la Tierra
+Entre abril de 1961 y junio de 1963 los soviéticos lanzaron seis misiones Vostok.
 
 -Los soviéticos seleccionaron a un grupo especial de los 20 mejores pilotos aéreos de pruebas de su Fuerza Aérea. De ellos seleccionaron finalmente a los primeros seis cosmonautas para el comienzo de su carrera espacial:
 
 Yuri A. Gagarin, que voló a bordo de la nave Vostok 1.
+
 Ghuerman S. Titov, que voló a bordo de la nave Vostok 2.
+
 Andrian G. Nikolaiev, que voló a bordo de la nave Vostok 3.
+
 Pavel R. Popovich, que voló a bordo de la nave Vostok 4.
+
 Valery F. Bykovsky, que voló a bordo de la nave Vostok 5.
+
 Valentina V. Tereskhova, que voló a bordo de la nave Vostok 6.
 
 -Antes del vuelo histórico de Yuri Gagarin en la Vostok 1 todavía se realizaron cuatro vuelos que lanzaron seis perros más al espacio:
+
 Pcheka y Mushka, el 1 de diciembre de 1960 (murieron al incendiarse la nave durante el reingreso en la atmósfera).
+
 Kometa y Shucka, el 22 de diciembre de 1960.
+
 Chernushka, el 9 de marzo de 1961
+
 Zvevdochka, el 25 de marzo de 1961.
 
 -LAS MISIONES:
