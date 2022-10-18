@@ -41,3 +41,4 @@ Vostok 3 y Vostok 4: fueron lanzadas el 11 de agosto de 1962, y orbitaron ambas 
 
 Vostok 5 y Vostok 6: orbitaron también en pareja. El Vostok 5 despegó el 14 de junio de 1963, y fue seguido dos días después por el Vostok 6, tripulado por la primera mujer astronauta, Valentina V. Tereshkova, Ambas cápsulas llegaron a situarse a menos de cinco kilómetros de distancia. Tereshkova realizó en este vuelo 48 órbitas alrededor de nuestro planeta.
 
+DATO: Konstantin Tsiolkovsky, un ingeniero y matemático fue quien en 1903 derivó por primera vez la ecuación del cohete, que describe el movimiento de los vehículos espaciales, lo que le dió una gran ventaja a la Unión Soviética en los albores de la era espacial.
