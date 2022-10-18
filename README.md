@@ -45,4 +45,6 @@ Vostok 5 y Vostok 6: orbitaron también en pareja. El Vostok 5 despegó el 14 de
 
 DATO: Konstantin Tsiolkovsky, un ingeniero y matemático fue quien en 1903 derivó por primera vez la ecuación del cohete, que describe el movimiento de los vehículos espaciales, lo que le dió una gran ventaja a la Unión Soviética en los albores de la era espacial.
 
+"Varios otros vuelos de Vostok estaban en etapa de planificación, incluida una misión doble que involucraba a dos mujeres y vuelos en solitario mucho más largos, según Astronautix.com. Pero todos estos fueron reemplazados por el programa soviético Voskhod, que conducía tripulaciones de varias personas, y el programa Soyuz , que sigue siendo el nombre de las misiones de vuelos espaciales tripulados de Rusia."
 
+fuente: https://www.space.com/vostok-program.html 
